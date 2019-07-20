@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\personal\\clover\\serverless\\Clover.Identity.Domain\\Clover.Identity.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\personal\\clover\\serverless\\Clover.Common\\Clover.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\personal\\clover\\serverless\\Clover.Common\\Clover.Common.csproj",
+        "projectName": "Clover.Common",
+        "projectPath": "C:\\personal\\clover\\serverless\\Clover.Common\\Clover.Common.csproj",
+        "packagesPath": "C:\\Users\\teb\\.nuget\\packages\\",
+        "outputPath": "C:\\personal\\clover\\serverless\\Clover.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\teb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\personal\\clover\\serverless\\Clover.Identity.Domain\\Clover.Identity.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\personal\\clover\\serverless\\Clover.Identity.Domain\\Clover.Identity.Domain.csproj",
+        "projectName": "Clover.Identity.Domain",
+        "projectPath": "C:\\personal\\clover\\serverless\\Clover.Identity.Domain\\Clover.Identity.Domain.csproj",
+        "packagesPath": "C:\\Users\\teb\\.nuget\\packages\\",
+        "outputPath": "C:\\personal\\clover\\serverless\\Clover.Identity.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\teb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\personal\\clover\\serverless\\Clover.Common\\Clover.Common.csproj": {
+                "projectPath": "C:\\personal\\clover\\serverless\\Clover.Common\\Clover.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

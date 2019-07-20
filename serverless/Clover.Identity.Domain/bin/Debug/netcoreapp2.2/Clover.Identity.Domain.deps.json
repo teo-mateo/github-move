@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Clover.Identity.Domain/1.0.0": {
+        "dependencies": {
+          "Clover.Common": "1.0.0"
+        },
+        "runtime": {
+          "Clover.Identity.Domain.dll": {}
+        }
+      },
+      "Clover.Common/1.0.0": {
+        "runtime": {
+          "Clover.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clover.Identity.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clover.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

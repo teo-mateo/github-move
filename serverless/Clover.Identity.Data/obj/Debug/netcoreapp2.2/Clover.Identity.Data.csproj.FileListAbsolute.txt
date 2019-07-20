@@ -1,0 +1,14 @@
+C:\personal\clover\serverless\Clover.Identity.Data\bin\Debug\netcoreapp2.2\Clover.Identity.Data.deps.json
+C:\personal\clover\serverless\Clover.Identity.Data\bin\Debug\netcoreapp2.2\Clover.Identity.Data.dll
+C:\personal\clover\serverless\Clover.Identity.Data\obj\Debug\netcoreapp2.2\Clover.Identity.Data.csprojAssemblyReference.cache
+C:\personal\clover\serverless\Clover.Identity.Data\obj\Debug\netcoreapp2.2\Clover.Identity.Data.csproj.CoreCompileInputs.cache
+C:\personal\clover\serverless\Clover.Identity.Data\obj\Debug\netcoreapp2.2\Clover.Identity.Data.AssemblyInfoInputs.cache
+C:\personal\clover\serverless\Clover.Identity.Data\obj\Debug\netcoreapp2.2\Clover.Identity.Data.AssemblyInfo.cs
+C:\personal\clover\serverless\Clover.Identity.Data\bin\Debug\netcoreapp2.2\Clover.Identity.Data.pdb
+C:\personal\clover\serverless\Clover.Identity.Data\bin\Debug\netcoreapp2.2\Clover.Common.dll
+C:\personal\clover\serverless\Clover.Identity.Data\bin\Debug\netcoreapp2.2\Clover.Identity.Domain.dll
+C:\personal\clover\serverless\Clover.Identity.Data\bin\Debug\netcoreapp2.2\Clover.Identity.Domain.pdb
+C:\personal\clover\serverless\Clover.Identity.Data\bin\Debug\netcoreapp2.2\Clover.Common.pdb
+C:\personal\clover\serverless\Clover.Identity.Data\obj\Debug\netcoreapp2.2\Clover.Identity.Data.csproj.CopyComplete
+C:\personal\clover\serverless\Clover.Identity.Data\obj\Debug\netcoreapp2.2\Clover.Identity.Data.dll
+C:\personal\clover\serverless\Clover.Identity.Data\obj\Debug\netcoreapp2.2\Clover.Identity.Data.pdb
