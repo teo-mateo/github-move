@@ -1,30 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\personal\\clover\\serverless\\Clover.Identity.Data\\Clover.Identity.Data.csproj": {}
+    "/home/codespace/workspace/clover/serverless/Clover.Identity.Data/Clover.Identity.Data.csproj": {}
   },
   "projects": {
-    "C:\\personal\\clover\\serverless\\Clover.Common\\Clover.Common.csproj": {
+    "/home/codespace/workspace/clover/serverless/Clover.Common/Clover.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\personal\\clover\\serverless\\Clover.Common\\Clover.Common.csproj",
+        "projectUniqueName": "/home/codespace/workspace/clover/serverless/Clover.Common/Clover.Common.csproj",
         "projectName": "Clover.Common",
-        "projectPath": "C:\\personal\\clover\\serverless\\Clover.Common\\Clover.Common.csproj",
-        "packagesPath": "C:\\Users\\teb\\.nuget\\packages\\",
-        "outputPath": "C:\\personal\\clover\\serverless\\Clover.Common\\obj\\",
+        "projectPath": "/home/codespace/workspace/clover/serverless/Clover.Common/Clover.Common.csproj",
+        "packagesPath": "/var/nuget",
+        "outputPath": "/home/codespace/workspace/clover/serverless/Clover.Common/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\teb\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -49,41 +44,42 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/opt/dotnet/sdks/3.1.301/sdk/3.1.301/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\personal\\clover\\serverless\\Clover.Identity.Data\\Clover.Identity.Data.csproj": {
+    "/home/codespace/workspace/clover/serverless/Clover.Identity.Data/Clover.Identity.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\personal\\clover\\serverless\\Clover.Identity.Data\\Clover.Identity.Data.csproj",
+        "projectUniqueName": "/home/codespace/workspace/clover/serverless/Clover.Identity.Data/Clover.Identity.Data.csproj",
         "projectName": "Clover.Identity.Data",
-        "projectPath": "C:\\personal\\clover\\serverless\\Clover.Identity.Data\\Clover.Identity.Data.csproj",
-        "packagesPath": "C:\\Users\\teb\\.nuget\\packages\\",
-        "outputPath": "C:\\personal\\clover\\serverless\\Clover.Identity.Data\\obj\\",
+        "projectPath": "/home/codespace/workspace/clover/serverless/Clover.Identity.Data/Clover.Identity.Data.csproj",
+        "packagesPath": "/var/nuget",
+        "outputPath": "/home/codespace/workspace/clover/serverless/Clover.Identity.Data/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\teb\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\personal\\clover\\serverless\\Clover.Identity.Domain\\Clover.Identity.Domain.csproj": {
-                "projectPath": "C:\\personal\\clover\\serverless\\Clover.Identity.Domain\\Clover.Identity.Domain.csproj"
+              "/home/codespace/workspace/clover/serverless/Clover.Identity.Domain/Clover.Identity.Domain.csproj": {
+                "projectPath": "/home/codespace/workspace/clover/serverless/Clover.Identity.Domain/Clover.Identity.Domain.csproj"
               }
             }
           }
@@ -109,41 +105,42 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/opt/dotnet/sdks/3.1.301/sdk/3.1.301/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\personal\\clover\\serverless\\Clover.Identity.Domain\\Clover.Identity.Domain.csproj": {
+    "/home/codespace/workspace/clover/serverless/Clover.Identity.Domain/Clover.Identity.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\personal\\clover\\serverless\\Clover.Identity.Domain\\Clover.Identity.Domain.csproj",
+        "projectUniqueName": "/home/codespace/workspace/clover/serverless/Clover.Identity.Domain/Clover.Identity.Domain.csproj",
         "projectName": "Clover.Identity.Domain",
-        "projectPath": "C:\\personal\\clover\\serverless\\Clover.Identity.Domain\\Clover.Identity.Domain.csproj",
-        "packagesPath": "C:\\Users\\teb\\.nuget\\packages\\",
-        "outputPath": "C:\\personal\\clover\\serverless\\Clover.Identity.Domain\\obj\\",
+        "projectPath": "/home/codespace/workspace/clover/serverless/Clover.Identity.Domain/Clover.Identity.Domain.csproj",
+        "packagesPath": "/var/nuget",
+        "outputPath": "/home/codespace/workspace/clover/serverless/Clover.Identity.Domain/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\teb\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\personal\\clover\\serverless\\Clover.Common\\Clover.Common.csproj": {
-                "projectPath": "C:\\personal\\clover\\serverless\\Clover.Common\\Clover.Common.csproj"
+              "/home/codespace/workspace/clover/serverless/Clover.Common/Clover.Common.csproj": {
+                "projectPath": "/home/codespace/workspace/clover/serverless/Clover.Common/Clover.Common.csproj"
               }
             }
           }
@@ -165,10 +162,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/opt/dotnet/sdks/3.1.301/sdk/3.1.301/RuntimeIdentifierGraph.json"
         }
       }
     }
